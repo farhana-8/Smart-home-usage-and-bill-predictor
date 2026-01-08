@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java
+target/
+out/
+
+# Env files
+.env
+
+# Logs
+*.log
